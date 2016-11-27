@@ -7,9 +7,19 @@ header {
 div {
     padding: 20px;
 }
+
 nav {
-    padding: 20px;
+  font-size: 1.8em;
+  float: right;
+} 
+
+nav a { 
+  text-decoration: none;
+  color: black;
+  margin: 1.8em;
+  display: inline-block;
 }
+
 aside {
     padding: 20px;
 }
