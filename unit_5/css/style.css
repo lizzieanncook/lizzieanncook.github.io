@@ -2,34 +2,27 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 header {
-    border: 1px black solid;
     padding: 20px;
 }
 div {
-    border: 1px black solid;
     padding: 20px;
 }
 nav {
-    border: 1px black solid;
     padding: 20px;
 }
 aside {
-    border: 1px black solid;
     padding: 20px;
 }
 
 article {
-    border: 1px black solid;
     padding: 20px;
 }
 
 footer {
-    border: 1px black solid;
     padding: 20px;
 }
 
 section {
-    border: 1px black solid;
     padding: 20px;
 }
 
@@ -54,10 +47,8 @@ p {
 
 .mybackground {
 	background-image: url("../images/Odessa_emilypayne.png");
-	width: 600px;
-	height: 800px;
+	width: 250px;
 	background-repeat: no-repeat;
-	background-size: 600px 800px;
 	color: white;
 }
 .slogan {
