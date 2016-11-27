@@ -2,75 +2,59 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 header {
-    background-color: #FFED74;
-    border: 1px black solid;
     padding: 20px;
 }
 div {
-  	background-color: #FFE2B8;
-    border: 1px black solid;
     padding: 20px;
 }
 nav {
-  	background-color: #E8C66A;
-    border: 1px black solid;
     padding: 20px;
 }
 aside {
-  	background-color: #FFC675;
-    border: 1px black solid;
     padding: 20px;
 }
 
 article {
-  	background-color: #E89C6C;
-    border: 1px black solid;
     padding: 20px;
 }
 
 footer {
-  	background-color: #FF957E;
-    border: 1px black solid;
     padding: 20px;
 }
 
 section {
-  	background-color: #FFE2B8;
-    border: 1px black solid;
     padding: 20px;
 }
 
 .right {
-  	text-align: right;
+    text-align: right;
 }
 
 h1 {
-	text-align: center;
-  	font-family: 'Montserrat', sans-serif;
- 	font-size: 30px;
- 	line-height: 1.5em;
-	margin: 2em;
+  text-align: center;
+    font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  line-height: 1.5em;
+  margin: 2em;
 }
 
 p {
-	font-family: 'Droid Serif', serif;
-	font-size: 18px;
-	line-height: 1.5em;
-	margin: 2em;
+  font-family: 'Droid Serif', serif;
+  font-size: 18px;
+  line-height: 1.5em;
+  margin: 2em;
 }
 
 .mybackground {
-	background-image: url("../images/Odessa_emilypayne.png");
-	width: 600px;
-	height: 800px;
-	background-repeat: no-repeat;
-	background-size: 600px 800px;
-	color: white;
+  background-image: url("../images/Odessa_emilypayne.png");
+  width: 250px;
+  background-repeat: no-repeat;
+  color: white;
 }
 .slogan {
-	font-family: 'Droid Serif', serif;
-	font-size: 18px;
+  font-family: 'Droid Serif', serif;
+  font-size: 18px;
 }
 a {
-	text-decoration: none;
+  text-decoration: none;
 }
