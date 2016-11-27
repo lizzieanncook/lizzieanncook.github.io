@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+h1 {
+	text-align: center;
+  	font-family: 'Montserrat', sans-serif;
+ 	font-size: 30px;
+ 	line-height: 1.5em;
+	margin: 2em;
+}
+
+p {
+	font-family: 'Droid Serif', serif;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+.mybackground {
+	background-image: url("../images/Odessa_emilypayne.png");
+	width: 600px;
+	height: 800px;
+	background-repeat: no-repeat;
+	background-size: 600px 800px;
+	color: white;
+}
+.slogan {
+	font-family: 'Droid Serif', serif;
+	font-size: 18px;
+}
+a {
+	text-decoration: none;
+}
