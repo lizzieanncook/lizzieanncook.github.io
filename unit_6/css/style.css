@@ -46,7 +46,8 @@ p {
 }
 
 .mybackground {
-width: 600px;
+  background-image: url("../images/Odessa_emilypayne.png");
+  width: 600px;
   height: 800px;
   background-repeat: no-repeat;
   background-size: 600px 800px;
