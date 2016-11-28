@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+header {
+    padding: 20px;
+}
+div {
+  font-size: 1em;
+  width: 30%;
+  // padding: 2%;
+  float: left;
+}
+
+nav {
+  float: center;
+} 
+
+nav a { 
+  text-decoration: none;
+  color: black;
+  margin: 0;
+  padding: 5px;
+  display: inline-block;
+}
+
+.container{
+  width:90%;
+  margin: 0 auto;
+}
+
+.container div{
+  display: inline-block;
+  border-left: 2px;
+  vertical-align: middle;
+  line-height: 100px;
+} 
+
+.column-left{ float: left; width: 20%;  padding: 1;  margin: 0 1;}
+.column-right{ float: right; width: 35%;   padding: 1;  margin: 0 1;}
+.column-center{ display: inline-block; width: 35%;  padding: 1;  margin: 0 1;}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    clear: both;
+    padding: 1;
+    margin: 0 1;
+}
+
+section {
+    padding: 20px;
+}
+
+.right {
+    text-align: right;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  line-height: 1.5em;
+  margin: 2em;
+  margin-top: 0;
+}
+
+p {
+  font-family: 'Droid Serif', serif;
+  font-size: 18px;
+  line-height: 1.5em;
+  margin: 2em;
+}
+
+.mybackground {
+  background-image: url("../images/Odessa_emilypayne.png");  width: 400px;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: 400px 600px;
+  color: white;
+}
+.slogan {
+  font-family: 'Droid Serif', serif;
+  font-size: 1em;
+}
+a {
+  text-decoration: none;
+}
+@media only screen and (max-width: 500px) {
+ .container div { 
+  float: none; 
+  width: auto; } 
+}
+
